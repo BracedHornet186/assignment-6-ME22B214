@@ -56,3 +56,19 @@ It preserves data size, captures complex dependencies, and results in higher pre
 ## Tools and Libraries
 - Python 3.x
 - Libraries: `numpy`, `pandas`, `scikit-learn`, `matplotlib`
+
+## File Structure
+
+- `ME22B214_A6.ipynb` → Main notebook with code, plots, and explanations.
+- `UCI_Credit_Card.csv` → Dataset (downloaded from Kaggle).
+- `README.md` → Project overview and insights.
+
+## How to Run  
+1. Install required libraries:  
+   ```bash
+   pip install pandas numpy scikit-learn imbalanced-learn seaborn matplotlib kagglehub
+2. Place `UCI_Credit_Card.csv` in the working directory
+3. Open the notebook:
+    ```bash
+    jupyter notebook ME22B214_A4.ipynb
+4. Run all cells to reproduce results.

@@ -66,9 +66,9 @@ It preserves data size, captures complex dependencies, and results in higher pre
 ## How to Run  
 1. Install required libraries:  
    ```bash
-   pip install pandas numpy scikit-learn imbalanced-learn seaborn matplotlib kagglehub
+   pip install pandas numpy scikit-learn seaborn matplotlib
 2. Place `UCI_Credit_Card.csv` in the working directory
 3. Open the notebook:
     ```bash
-    jupyter notebook ME22B214_A4.ipynb
+    jupyter notebook ME22B214_A6.ipynb
 4. Run all cells to reproduce results.
